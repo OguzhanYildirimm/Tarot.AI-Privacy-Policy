@@ -1,0 +1,1 @@
+# Tarot.AI-Privacy-Policy
