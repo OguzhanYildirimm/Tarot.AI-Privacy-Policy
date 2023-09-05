@@ -16,6 +16,4 @@ The results of the Tarot readings you take while using our application are saved
 
 We respect your right to collect and use your personal information. If you have any questions or concerns about your personal information, please do not hesitate to contact us. Your privacy is important to us and should always be secure.
 
-Tarot.AI
-Lightning Software
-tarotai.info@gmail.com
+Tarot.AI\nLightning Softwaretarotai.info@gmail.com
