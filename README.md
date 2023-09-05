@@ -1,9 +1,9 @@
 # Tarot.AI-Privacy-Policy
 
 
-<head>
-    <title>Tarot.AI Gizlilik Politikası</title>
-</head>
+
+<h1>Tarot.AI Gizlilik Politikası<h1>
+
 
 
 <h1>Hello Tarot.AI Kullanıcısı,</h1>
