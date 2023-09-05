@@ -1,28 +1,34 @@
 # Tarot.AI-Privacy-Policy
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tarot.AI Privacy Policy</title>
+</head>
+<body>
 
+<h1>Hello Tarot.AI User,</h1>
 
-
-<h1>Tarot.AI Gizlilik Politikası<h1>
-
-
-
-<h1>Hello Tarot.AI Kullanıcısı,</h1>
-
-<p>Tarot.AI uygulamasını kullanmaya başlamadan önce, kişisel bilgilerinizle ilgili size önemli bilgileri paylaşmak istiyoruz. Daha iyi bir deneyim sunmak ve uygulamamızı kişiselleştirmek amacıyla adınız ve e-posta adresiniz gibi temel bilgileri topluyoruz. Bu bilgiler aşağıdaki amaçlarla kullanılabilir:</p>
+<p>Before you start using the Tarot.AI application, we want to share some important information with you about your personal information. We collect basic information such as your name and email address to provide you with a better experience and personalize our application. This information may be used for the following purposes:</p>
 
 <ul>
-    <li>Size kişiselleştirilmiş Tarot kartı okumaları sunmak.</li>
-    <li>Sizi güncellemeler ve özel bildirimlerle bilgilendirmek.</li>
-    <li>Sorularınıza ve geri bildirimlerinize yanıt vermek.</li>
+    <li>Providing you with personalized Tarot card readings.</li>
+    <li>Keeping you informed with updates and special notifications.</li>
+    <li>Responding to your questions and feedback.</li>
 </ul>
 
-<p>Kişisel bilgileriniz bizim için çok önemlidir ve bunları güvende tutmak için gerekli tüm önlemleri alırız. Şifreleriniz güvenli bir şekilde saklanır ve kimse tarafından görüntülenemez.</p>
+<p>Your personal information is very important to us, and we take all necessary precautions to keep it safe. Your passwords are securely stored and cannot be viewed by anyone.</p>
 
-<p>Kişisel bilgileriniz asla başkalarıyla paylaşılmaz veya satılmaz. Ancak, uygulama hizmetlerini sunmak amacıyla işbirliği yaptığımız güvenilir üçüncü taraflarla veya yasal gereksinimler doğrultusunda bilgi paylaşabiliriz.</p>
+<p>Your personal information is never shared or sold to others. However, we may share information with trusted third parties we collaborate with to provide application services or as required by legal requirements.</p>
 
-<p>Uygulamamızı kullanırken aldığınız Tarot okumalarının sonuçları, geçmiş okumalarınız olarak kaydedilir. Bu, geçmiş Tarot kartı okumalarınıza her zaman erişmenizi sağlar. Ayrıca bu geçmiş okumaları silmeyi veya hesabınızı kapatmayı seçebilirsiniz.</p>
+<p>The results of the Tarot readings you take while using our application are saved as your past readings. This allows you to access your past Tarot card readings at any time. You can also choose to delete these past readings or close your account.</p>
 
-<p>Kişisel bilgilerinizi toplama ve kullanma hakkınıza saygı duyuyoruz. Kişisel bilgilerinizle ilgili herhangi bir sorunuz veya endişeniz varsa, lütfen bize başvurun. Gizliliğiniz bizim için önemlidir ve her zaman güvende olmalıdır.</p>
+<p>We respect your right to collect and use your personal information. If you have any questions or concerns about your personal information, please do not hesitate to contact us. Your privacy is important to us and should always be secure.</p>
 
-<p>Tarot.AI Lightning Software <a href="mailto:tarotai.info@gmail.com">tarotai.info@gmail.com</a></p>
+<ul>
+    <li>Tarot.AI</li>
+    <li>Lightning Software</li>
+    <li><a href="mailto:tarotai.info@gmail.com">tarotai.info@gmail.com</a></li>
+</ul>
 
+</body>
+</html>
