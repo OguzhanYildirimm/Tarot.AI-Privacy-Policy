@@ -1,12 +1,7 @@
 # Tarot.AI-Privacy-Policy
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Tarot.AI Privacy Policy</title>
-</head>
-<body>
 
-<h1>Hello Tarot.AI User,</h1>
+
+<h1>Hello Tarot.AI User</h1>
 
 <p>Before you start using the Tarot.AI application, we want to share some important information with you about your personal information. We collect basic information such as your name and email address to provide you with a better experience and personalize our application. This information may be used for the following purposes:</p>
 
@@ -30,5 +25,3 @@
     <li><a href="mailto:tarotai.info@gmail.com">tarotai.info@gmail.com</a></li>
 </ul>
 
-</body>
-</html>
